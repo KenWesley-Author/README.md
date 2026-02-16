@@ -1,4 +1,3 @@
 # Writing
 
-This folder contains ongoing intellectual work by Ken Wesley.
-
+This folder contains work by Ken Wesley, across various themes and areas. 
