@@ -1,16 +1,7 @@
-Concepts
-- Delay
-- Elimination
-- Indifference
-- Repetition
+# Ken Wesley
 
-Themes
-- Power
-- Control
-- Identity
+This repository contains the ongoing intellectual work by Ken Wesley.
 
-Series
-- The Prison
+Start → index.md
 
-Fragments
-- Raw lines
+[Enter](/KenWesley-Author/index.html)
