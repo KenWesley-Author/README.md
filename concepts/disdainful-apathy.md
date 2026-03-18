@@ -2,8 +2,9 @@
 layout: default
 title: Disdainful Apathy
 ---
-
+[← Home](/)
 [← Back](../)
+
 ---
 
 # Disdainful Apathy
