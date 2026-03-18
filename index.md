@@ -10,7 +10,6 @@ This repository contains the ongoing intellectual work by Ken Wesley.
 
 ## Themes
 
----
 
 ## Series
 
