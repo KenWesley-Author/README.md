@@ -1,6 +1,9 @@
 ---
 layout: default
-title: Disdainful Apathy
+title:
+---
+
+[← Back](../)
 ---
 
 # Disdainful Apathy
