@@ -6,7 +6,7 @@ This repository contains the ongoing intellectual work by Ken Wesley.
 ---
 
 ## Concepts
-- [Disdainful Apathy](concepts/disdainful-apathy)
+- [Disdainful Apathy](concepts/disdainful-apathy.md)
 
 ## Themes
 
