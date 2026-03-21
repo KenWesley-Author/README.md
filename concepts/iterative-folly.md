@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Disdainful Apathy
+title: Iterative Folly
 ---
 
 [← Home](/)
