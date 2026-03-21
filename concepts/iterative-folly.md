@@ -8,17 +8,19 @@ title: Iterative Folly
 
 ---
 
+"A person repeats his mistake twice, he can safely be labelled a fool. He goes on to commit stupidity for the seventh, the tenth time. By the eleventh, he succeeds, he is vindicated."
 
-Iterative Folly
+---
 
-A person repeats his mistake twice, he can safely be labelled a fool.
-He goes on to commit stupidity for the seventh, the tenth time.
-By the eleventh, he succeeds, he is vindicated.
 
 Concept
 
 Iterative Folly
 Repeated error that only gains legitimacy through eventual success.
+
+
+---
+
 
 Explanation
 
